@@ -25,7 +25,7 @@ This game will going to be a defendand avoiding the bad balloon to refrain loosi
 ●	Goals:Beat the high score and avoid from defeating
 ●	User Skills: Aim, drag,shoot
 ●	Items and power-ups: gain multiple points once green balloon is being shooted
-●	Progression and Challenge - 	Difficulty will encounteronce the black balloon is closer to the good balloons. To alleviate the difficulty the items can be useful in beating the highest score.			
+●	Progression and Challenge - Difficulty will encounteronce the black balloon is closer to the good balloons. To alleviate the difficulty the items can be useful in beating the highest score.			
 ●	Losing: These are the losing conditions: losing byshooting the black balloon, when the player loses. there must be an scoreboard showing the highest score needed to beat and the actual score.
  
 **Art Style** 
