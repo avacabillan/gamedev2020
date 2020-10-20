@@ -6,6 +6,8 @@ https://drive.google.com/drive/u/2/my-drive
 
 
 FORTIFY COLONY
+
+
 Game Design Document
 
 ![avalogo-01](https://user-images.githubusercontent.com/73097784/96465897-8db84900-123a-11eb-90c8-5a2dd52d9858.png)
