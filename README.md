@@ -2,7 +2,7 @@
 
 Game record
 
-https://drive.google.com/drive/u/2/my-drive
+https://drive.google.com/file/d/1DKSJIzIgZukhwyzA07eN6FC90T050Gu5/view?usp=sharing
 
 
 FORTIFY COLONY
